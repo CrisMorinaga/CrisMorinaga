@@ -1,9 +1,11 @@
-Hi! My name is Cristopher Morales
-==========================================================================================================================================
+# Hi, I'm Cristopher Morales
 
-Full-Stack developer
----------------------------
+## Full-stack developer based in Japan
 
-* 🌍  I'm based in Japan
-* 🖥️  See my portfolio at [Portfolio](http://crismorinaga.vercel.app/)
-* ✉️  You can contact me at [crismorinaga@outlook.com](mailto:crismorinaga@outlook.com)
+I build web applications with TypeScript, React, Next.js, and backend services, with a particular interest in front-end systems and AI integrations.
+
+- 🌐 [View my portfolio](http://crismorinaga.vercel.app/)
+- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/morales-cristopher/)
+- ✉️ [Contact me](mailto:crismorinaga@outlook.com)
+- 📜 ITPEC Fundamental Information Technology Engineer certified
+
